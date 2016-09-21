@@ -1,2 +1,2 @@
 # Codility-Challenges
-My solutions for codility challenges
+My solutions for codility lessons at https://codility.com/programmers/lessons/
